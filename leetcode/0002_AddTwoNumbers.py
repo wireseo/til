@@ -1,7 +1,7 @@
 # knowledge: multiple functions in one class requires 'self.'
 # concepts: recursive Python, better if-else sections
 # comment: took an hour. should be quicker... time-efficient but not memory-efficient
-#   preset next=None, so no need to repeat while creating object
+    # preset next=None, so no need to repeat while creating object
 # runtime: 72 ms, faster than 66.88% of Python3 online submissions
 # memory usage: 14.4 MB, less than 11.65% of Python3 online submissions
 
