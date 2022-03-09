@@ -1,6 +1,7 @@
 # knowledge: &, |, <<, >>= etc. bit manipulation
 # concepts: bit manipulation
-# comment: need to study bit manipulation
+# comment: n & 1 gets last digit of n by bitwise AND with one-digit binary number
+    # then add it to ans, and remove last digit of n
 # runtime: X, not mine
 # memory usage: X, not mine
 
