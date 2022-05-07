@@ -1,8 +1,8 @@
 # knowledge: X 
 # concepts: BST search
 # comment: it's a BST! only search left or right
-# runtime: not mine
-# memory usage: not mine
+# runtime: X, not mine
+# memory usage: X, not mine
 
 class Solution:
     def searchBST(self, root, val):
