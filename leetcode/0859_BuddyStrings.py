@@ -14,3 +14,4 @@ class Solution:
         dif = [(a, b) for a, b in zip(A, B) if a != b]
         
         return len(dif) == 2 and dif[0] == dif[1][::-1]
+        
