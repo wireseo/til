@@ -21,3 +21,4 @@ class Solution:
             ans[-1-i] *= suf            # suffix product from other end
             suf *= nums[-1-i]
         return ans
+        
