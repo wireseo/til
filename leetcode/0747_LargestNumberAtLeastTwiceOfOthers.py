@@ -14,3 +14,4 @@ class Solution:
             elif num > max2:
                 max2 = num
         return maxidx if max1 >= 2 * max2 else -1
+        
