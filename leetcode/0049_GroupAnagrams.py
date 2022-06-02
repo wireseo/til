@@ -11,3 +11,4 @@ class Solution:
             key = tuple(sorted(word))
             d[key] = d.get(key, []) + [word]
         return list(d.values())
+        
