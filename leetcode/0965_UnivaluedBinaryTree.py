@@ -1,6 +1,9 @@
 # knowledge: X
 # concepts: binary tree recursion
 # comment: easy binary tree recursion
+# runtime: 25 ms, faster than 98.57% of Python3 online submissions
+# memory usage: 13.9 MB, less than 14.69% of Python3 online submissions
+
 
 # Definition for a binary tree node.
 class TreeNode:
