@@ -29,3 +29,4 @@ class Codec:
             return node
         serial = iter(data.split())
         return preorder()
+        
