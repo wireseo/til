@@ -13,3 +13,4 @@ class Solution:
             toGive += 1
             candies -= toGive
         return people
+        
