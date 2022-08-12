@@ -8,3 +8,4 @@ class Solution:
     def findLHS(self, nums: List[int]) -> int:
         c = collections.Counter(nums)
         return max([c[x] + c[x + 1] for x in c if x + 1 in c] or [0])
+        
