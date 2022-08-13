@@ -10,3 +10,4 @@ def isValidSudoku(self, board):
                 for i in range(9) for j in range(9)
                 for c in [board[i][j]] if c != '.'), [])
     return len(seen) == len(set(seen))
+    
